@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  jupyter:
+    build: .
+    command: jupyter-lab --ip='*' --port 8888 --no-browser --allow-root
+    volumes:
+      - ./code:/code
+    ports:
+      - "18888:8888"
