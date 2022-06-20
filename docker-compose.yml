@@ -5,6 +5,6 @@ services:
     build: .
     command: jupyter-lab --ip='*' --port 8888 --no-browser --allow-root
     volumes:
-      - ./code:/code
+      - ./src:/src
     ports:
       - "18888:8888"
