@@ -1,4 +1,3 @@
-# JupyterLab_docker
 ## 自分用のJupyterLabのテンプレ
 
 docker_xxx/ (任意のディレクトリ名) <br>
@@ -21,3 +20,4 @@ docker compose down
 ```
 docker compose up
 ```
+
