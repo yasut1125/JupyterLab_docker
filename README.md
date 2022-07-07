@@ -1,4 +1,4 @@
-## 自分用のJupyterLabのテンプレ
+## JupyterLab Template for myself
 
 docker_xxx/ (optional directory name) <br>
 ├─src/ (work directory)<br>
