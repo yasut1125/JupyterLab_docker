@@ -5,7 +5,7 @@ pandas
 numpy
 scikit-learn
 matplotlib
-jupyterlab_tabnin
+jupyterlab_tabnine
 jupyterlab-language-pack-ja-JP
 jupyterlab_code_formatter
 black
