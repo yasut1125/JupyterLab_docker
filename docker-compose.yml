@@ -7,4 +7,4 @@ services:
     volumes:
       - ./src:/src
     ports:
-      - "18888:8888"
+      - "8888:8888"
